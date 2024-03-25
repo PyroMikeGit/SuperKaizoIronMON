@@ -1,4 +1,4 @@
-# SuperKaizoIronMON Rules
+# Super Kaizo IronMON Ruleset by [iateyourpie](https://www.twitch.tv/iateyourpie)
 
 ## VERY LARGE DISCLAIMER FROM iateyourpie
 

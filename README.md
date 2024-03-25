@@ -10,7 +10,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 - [Randomizer Settings Strings](#randomizer-settings-strings)
 - [Other Resources](#other-resources)
 
-## VERY LARGE DISCLAIMER FROM iateyourpie
+## VERY LARGE DISCLAIMER from iateyourpie
 
 > **"This is not meant for everyone. This is as of now, not an "official" ironmon ruleset. I tried way too hard to make a ruleset that the community wanted with Survival, and that entire process was stressful. I am going about this the same way I went with the original Kaizo. I'm making something I want to make and if others enjoy it so be it.**
 > 
@@ -57,7 +57,8 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 1. Misty's Gym must be completed IMMEDIATELY after getting the Nugget from Nugget Bridge
 2. Erika's Gym must be completed before entering Rocket Hideout
 3. No fighting trainers in S.S. Anne, except for the Rival to get Cut
-4. Mid-game Pivot Rules:
+4. The first 5 hidden items prior to Mt. Moon are allowed to be picked up
+5. **Mid-game Pivot Rules**:
    - The pivot must be done in one of the Safari Zone areas
    - You can leave and come back if you need to check Pokémon moves outside
 
@@ -65,14 +66,16 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 1. Must beat Mauville Gym before leaving
 2. Must beat Fortree Gym as soon as you can when you visit; avoid trainers while getting Devon Scope
-3. Mid-game Pivot Rules:
+3. The 3 hidden items on the beach (Route 104 - South) are allowed to be picked up
+4. **Mid-game Pivot Rules**:
    - After Norman, you must do a surf pivot
    - Can't pass water on Route 118 until you do
 
 ### Heart Gold / Soul Silver
 1. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
 2. Morty's Gym must be completed before leaving Ecruteak City
-3. Mid-game Pivot Rules:
+3. The hidden items in the Ruins of Alph are allowed to be picked up
+4. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
    - You final pivot must end up LOWER LEVEL than your current main Pokémon
 
@@ -83,12 +86,12 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 - FireRed / Leaf Grean: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
 - Heart Gold:
-   - Limiter\* + BGM (Background Music) [Download from Google Drive](https://drive.google.com/file/d/18Pyjler4blbWI9DMQLHQtBQ9ZKPDyiAC/view?usp=drive_link)
-   - Limiter\* + No BGM [Download from Google Drive](https://drive.google.com/file/d/1BFEtHZQvzbWIc51Fa6-DdkXgxkDyd9ny/view?usp=drive_link)
-   - No Limiter\* + BGM [Download from Google Drive](https://drive.google.com/file/d/1A1NnB651LlsZUK7-lzkqj6ehpRnQaQwy/view?usp=drive_link)
-   - No Limiter\* + No BGM [Download from Google Drive](https://drive.google.com/file/d/1yS4Dllxn6KSiUkLlvi0Oig4aa7Vw4hOG/view?usp=drive_link)
-   - *\* Limiter: The game plays at the original framerate; No Limiter: Game plays more smoothly and feels faster*
-   - *\* NO BGM: Changes the behavior of the GB Sounds item to remove the background music; BGM: No Changes*
+   - Limiter + BGM [Download from Google Drive](https://drive.google.com/file/d/18Pyjler4blbWI9DMQLHQtBQ9ZKPDyiAC/view?usp=drive_link)
+   - Limiter + No BGM [Download from Google Drive](https://drive.google.com/file/d/1BFEtHZQvzbWIc51Fa6-DdkXgxkDyd9ny/view?usp=drive_link)
+   - No Limiter + BGM [Download from Google Drive](https://drive.google.com/file/d/1A1NnB651LlsZUK7-lzkqj6ehpRnQaQwy/view?usp=drive_link)
+   - No Limiter + No BGM [Download from Google Drive](https://drive.google.com/file/d/1yS4Dllxn6KSiUkLlvi0Oig4aa7Vw4hOG/view?usp=drive_link)
+   - *"Limiter": The game plays at the original framerate; "No Limiter": Game plays more smoothly and feels faster*
+   - *"BGM": No changes to music from original game; "NO BGM": Changes the behavior of the GB Sounds item to remove the background music*
 
 ## Randomizer Settings Strings
 

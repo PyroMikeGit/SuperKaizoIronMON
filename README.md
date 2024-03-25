@@ -11,3 +11,9 @@
 1. Every Trainer has SMART AI
 2. Every Trainer Has Held Items (sensible + consumable)
 3. Every Gym Leader has 6 Pokemon
+4. Additional Banned Abilities: Battle Armor/Shell Armor/Taking items from Pick Up.
+5. Following Items are Banned for Gym Leaders/Elite 4: X Speed, X Attack, X Special Attack.
+6. No Set Up Moves Allowed on Elite 4 or Gym Leaders.
+7. Attacking Moves with HP Draining Effects (Giga Drain, Mega Drain, etc.) are legal. Note: Moves like Pain Split or Leech Seed are still not allowed.
+8. One HM Friend Allowed (This prevents scouting moves on all mons).
+9. No Legendary Favorites.

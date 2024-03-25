@@ -76,6 +76,8 @@ Link to [Ironmon Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## Smart AI ROM Patches
 
+Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/RomPatcher.js/)
+
 - FireRed / Leaf Grean: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
 - Heart Gold:

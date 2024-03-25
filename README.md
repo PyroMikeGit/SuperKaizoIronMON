@@ -18,6 +18,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## General Rules for All Games
 
+0. ALL PREVIOUS Standard, Ultimate, and Kaizo rules apply (unless overridden by a Super Kaizo rule below)!
 1. Every Trainer has SMART AI, this requires a [ROM patch](#smart-ai-rom-patches)
 2. Every Trainer has sensible held items (+ Consumable option for Gen 3 games)
 3. Every Gym Leader now has 6 Pokemon
@@ -25,13 +26,14 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
    - For this pivot, you may catch 3 Pokémon, compare them, then choose 1 to keep
    - This pivot must be your last pivot and it can't be what you were primarily using in the first half of the game
+   - If your last pivot evolves into the Pokémon you were running before, that's fine and legal
    - After this pivot, you may reenter each Dungeon 1 additional time
 5. All Hidden Items and Step Items (Mt. Moon, etc) are banned except:
    - Those found in Dungeons/Caves are allowed
    - Those found in the early game, [handled differently per game](#game-specific-rules)
 6. Additional Banned Abilities:
    - Battle Armor / Shell Armor
-   - Pikcup (taking items)
+   - Pickup (taking items)
    - Magic Guard
    - No Guard + any OHKO move or Sleep move
    - Poison Heal + getting poisoned from wilds

@@ -37,11 +37,11 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Magic Guard
    - No Guard + using any OHKO move or Sleep move
    - Poison Heal + getting poisoned from wild Pokémon
-7. Additional Banned Items when fighting Gym Leaders or Elite 4:
+7. Additional Banned Items when fighting Gym Leaders, Elite 4 or final Trainer battle:
    - X Speed
    - X Attack
    - X Special Attack
-8. Additional Banned Moves when fighting Gym Leaders or Elite 4:
+8. Additional Banned Moves when fighting Gym Leaders, Elite 4 or final Trainer battle:
    - Any non-damaging, permanent set up move, such as Swords Dance, Defense Curl, etc.
    - Rage, Charge Beam, Light Screen, etc. are all legal okay
 9. Unbanned Moves:

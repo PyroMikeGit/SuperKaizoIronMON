@@ -102,3 +102,7 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 
 - Fire Red / Leaf Green rules [Pastebin](https://pastebin.com/nWAXrPEE)
 - Heart Gold rules [Gist](https://gist.github.com/piebandit/b58c02bad84f4ba9ac81c229f8f712bc) with pivoting info
+
+### Tracking Spreadsheets
+
+- FRLG: [Safari Zone Tracking Sheet Template: MAKE A COPY](https://docs.google.com/spreadsheets/d/1EB4Y5xmKmbUu9lzz9BTR0sJpp0wfUtNM4rF60aOtHtU)

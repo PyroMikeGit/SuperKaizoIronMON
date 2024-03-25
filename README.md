@@ -33,10 +33,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Those found in the early game, [handled differently per game](#game-specific-rules)
 6. Additional Banned Abilities:
    - Battle Armor / Shell Armor
-   - Pickup (taking items)
+   - Pickup (can't take/use items)
    - Magic Guard
-   - No Guard + any OHKO move or Sleep move
-   - Poison Heal + getting poisoned from wilds
+   - No Guard + using any OHKO move or Sleep move
+   - Poison Heal + getting poisoned from wild Pokémon
 7. Additional Banned Items when fighting Gym Leaders or Elite 4:
    - X Speed
    - X Attack

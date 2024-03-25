@@ -1,6 +1,6 @@
 # Super Kaizo IronMON Ruleset by [iateyourpie](https://www.twitch.tv/iateyourpie)
 
-Link to [Ironmon Discord](https://discord.com/invite/jFPYsZAhjX)
+Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## Contents
 - [VERY LARGE DISCLAIMER](#very-large-disclaimer-from-iateyourpie)
@@ -86,10 +86,11 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
    - No Limiter\* + BGM [Download from Google Drive](https://drive.google.com/file/d/1A1NnB651LlsZUK7-lzkqj6ehpRnQaQwy/view?usp=drive_link)
    - No Limiter\* + No BGM [Download from Google Drive](https://drive.google.com/file/d/1yS4Dllxn6KSiUkLlvi0Oig4aa7Vw4hOG/view?usp=drive_link)
    - *\* Limiter: The game plays at the original framerate; No Limiter: Game plays more smoothly and feels faster*
+   - *\* NO BGM: Changes the behavior of the GB Sounds item to remove the background music; BGM: No Changes*
 
 ## Randomizer Settings Strings
 
-- Look for "Super Kaizo" for your game in [Official Ironmon Settings Strings](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621)
+- Look for "Super Kaizo" for your game in [Official IronMON Settings Strings](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621)
 
 ## Other Resources
 

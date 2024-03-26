@@ -85,6 +85,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
       - You may fight trainers only on paths along the way
    3. After that, you cannot leave cities/caves with a Gym until you defeat its Gym (Cerulean City includes routes north of it)
    4. Can't surf on Routes 19-21 until you have 6 Kanto badges
+   5. Must defeat Blaine first before exploring the rest of Seafoam Islands
 
 ## Smart AI ROM Patches
 

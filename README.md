@@ -66,7 +66,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 1. Must beat Mauville Gym before leaving
 2. Must beat Fortree Gym as soon as you can when you visit; avoid trainers while getting Devon Scope
-3. The 3 hidden items on the beach (Route 104 - South) are allowed to be picked up
+3. [work in progress] The 3 hidden items on the beach (Route 104 - South) are allowed to be picked up
 4. **Mid-game Pivot Rules**:
    - After Norman, you must do a surf pivot
    - Can't pass water on Route 118 until you do
@@ -77,7 +77,14 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 3. The hidden items in the Ruins of Alph before Gym 1 are allowed to be picked up
 4. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
-   - You final pivot must end up LOWER LEVEL than your current main Pokémon
+   - You final pivot must end up LOWER LEVEL than your first/original main Pokémon
+5. Kanto Rules:
+   1. Lt. Surge's Gym must be completed before leaving Vermillion City
+   2. Must repair Power Plant and upgrade PokéGear ASAP
+      - Head directly north towards Cerulean and use Rock Tunnel to complete the quest
+      - You may fight trainers only on paths along the way
+   3. After that, you cannot leave cities/caves with a Gym until you defeat its Gym (Cerulean City includes routes north of it)
+   4. Can't surf on Routes 19-21 until you have 6 Kanto badges
 
 ## Smart AI ROM Patches
 

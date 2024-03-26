@@ -18,7 +18,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## General Rules for All Games
 
-0. ALL PREVIOUS Standard, Ultimate, and Kaizo rules apply (unless overridden by a Super Kaizo rule below)!
+0. ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Super Kaizo rule below)!
 1. Every Trainer has SMART AI, this requires a [ROM patch](#smart-ai-rom-patches)
 2. Every Trainer has sensible held items (+ Consumable option for Gen 3 games)
 3. Every Gym Leader now has 6 Pokemon
@@ -78,6 +78,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
    - You final pivot must end up LOWER LEVEL than your first/original main Pokémon
+   - If you find a favorite while searching for the mid-game pivot, you may catch it without it counting towards your 3 pivot checks
 5. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City
    2. Must repair Power Plant and upgrade PokéGear ASAP

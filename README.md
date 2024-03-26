@@ -42,8 +42,8 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - X Attack
    - X Special Attack
 8. Additional Banned Moves when fighting Gym Leaders, Elite 4 or final Trainer battle:
-   - Any non-damaging, permanent set up move, such as Swords Dance, Defense Curl, etc.
-   - Rage, Charge Beam, Light Screen, etc. are all legal okay
+   - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Defense Curl, etc.
+   - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use
 9. Unbanned Moves:
    - Attacking moves with HP draining effects such as Giga Drain are legal
    - Non-attacking moves such as Pain Split, Leech Seed, etc. are still banned

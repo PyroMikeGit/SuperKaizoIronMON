@@ -92,7 +92,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/RomPatcher.js/)
 
-- FireRed / Leaf Grean: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
+- FireRed / Leaf Green: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
 - Heart Gold:
    - Limiter + BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1Limiter.xdelta)

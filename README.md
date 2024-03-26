@@ -86,12 +86,12 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 - FireRed / Leaf Grean: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
 - Heart Gold:
-   - Limiter + BGM [Download from Google Drive](https://drive.google.com/file/d/18Pyjler4blbWI9DMQLHQtBQ9ZKPDyiAC/view?usp=drive_link)
-   - Limiter + No BGM [Download from Google Drive](https://drive.google.com/file/d/1BFEtHZQvzbWIc51Fa6-DdkXgxkDyd9ny/view?usp=drive_link)
-   - No Limiter + BGM [Download from Google Drive](https://drive.google.com/file/d/1A1NnB651LlsZUK7-lzkqj6ehpRnQaQwy/view?usp=drive_link)
-   - No Limiter + No BGM [Download from Google Drive](https://drive.google.com/file/d/1yS4Dllxn6KSiUkLlvi0Oig4aa7Vw4hOG/view?usp=drive_link)
-   - *"Limiter": The game plays at the original framerate; "No Limiter": Game plays more smoothly and feels faster*
-   - *"BGM": No changes to music from original game; "NO BGM": Changes the behavior of the GB Sounds item to remove the background music*
+   - Limiter + BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1Limiter.xdelta)
+   - Limiter + No BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1LimiterNoBGM.xdelta)
+   - No Limiter + BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1NoLimiter.xdelta)
+   - No Limiter + No BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1NoLimiterNoBGM.xdelta)
+
+**Limiter**: The game plays at the original framerate; **No Limiter**: Game plays more smoothly and feels faster; **BGM**: No changes to music from original game; **NO BGM**: Changes the behavior of the GB Sounds item to remove the background music
 
 ## Randomizer Settings Strings
 

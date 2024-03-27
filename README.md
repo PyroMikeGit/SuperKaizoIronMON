@@ -28,9 +28,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - This pivot must be your last pivot and it can't be what you were primarily using in the first half of the game
    - If your last pivot evolves into the Pokémon you were running before, that's fine and legal
    - After this pivot, you may reenter each Dungeon 1 additional time
-5. All Hidden Items and Step Items (Mt. Moon, etc) are banned except:
+5. All Hidden Items are banned except:
    - Those found in Dungeons/Caves are allowed
    - Those found in the early game, [handled differently per game](#game-specific-rules)
+   - ALL Step Items (Mt. Moon, etc) are banned no matter where they are
 6. Additional Banned Abilities:
    - Battle Armor / Shell Armor
    - Pickup (can't take/use items)

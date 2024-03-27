@@ -102,6 +102,12 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 
 **Limiter**: The game plays at the original framerate; **No Limiter**: Game plays more smoothly and feels faster; **BGM**: No changes to music from original game; **NO BGM**: Changes the behavior of the GB Sounds item to remove the background music
 
+### Smart AI Randomizer
+
+There is a dedicated randomizer for adding smart AI to trainers without a patch. It works for any generation 3-5 game, however if you would like to use the old randomizer version (4.4.1) for playing generation 4 without extra berries you will need to use that with a patch.
+
+[Download here](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v1)
+
 ## Randomizer Settings Strings
 
 - Look for "Super Kaizo" for your game in [Official IronMON Settings Strings](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621)

@@ -75,7 +75,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 ### Heart Gold / Soul Silver
 1. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
 2. Morty's Gym must be completed before leaving Ecruteak City
-3. The hidden items in the Ruins of Alph before Gym 1 are allowed to be picked up
+3. The first 5 hidden items prior to entering Gym 1 are allowed to be picked up
 4. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
    - You final pivot must end up LOWER LEVEL than your first/original main Pokémon

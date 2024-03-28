@@ -30,7 +30,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - After this pivot, you may reenter each Dungeon 1 additional time
 5. All Hidden Items are banned except:
    - Those found in Dungeons/Caves are allowed
-   - Those found in the early game, [handled differently per game](#game-specific-rules)
+   - Those found in the early game, [handled differently for each game](#game-specific-rules)
    - ALL Step Items (Mt. Moon, etc) are banned no matter where they are
 6. Additional Banned Abilities:
    - Battle Armor / Shell Armor
@@ -89,6 +89,11 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    4. Can't surf on Routes 19-21 until you have 6 Kanto badges
    5. Must defeat Blaine first before exploring the rest of Seafoam Islands
 
+### Platinum
+1. **Mid-game Pivot Rules**:
+   - You must pivot to a new mon at the Great Marsh when you first get to Pastoria City
+2. You must complete Veilstone Gym after arriving for the first time, before heading south of the city
+
 ## Smart AI ROM Patches
 
 Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/RomPatcher.js/)
@@ -118,7 +123,7 @@ There is a dedicated randomizer for adding smart AI to trainers without a patch.
 ### Ironmon Trackers
 
 - GBA Tracker (Gen 3: FRLG / Emerald): [Download](https://github.com/besteon/Ironmon-Tracker/releases/latest)
-- NDS Tracker (Gen 4-5: HGSS): [Download](https://github.com/Brian0255/NDS-Ironmon-Tracker)
+- NDS Tracker (Gen 4-5: HGSS / Platinum): [Download](https://github.com/Brian0255/NDS-Ironmon-Tracker)
 
 ### Original Rules Links
 

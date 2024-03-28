@@ -62,6 +62,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 5. **Mid-game Pivot Rules**:
    - The pivot must be done in one of the Safari Zone areas
    - You can leave and come back if you need to check Pokémon moves outside
+   - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone
 
 ### Emerald
 

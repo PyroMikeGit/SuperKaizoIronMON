@@ -92,9 +92,12 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    5. Must defeat Blaine first before exploring the rest of Seafoam Islands
 
 ### Platinum
-1. **Mid-game Pivot Rules**:
-   - You must pivot to a new mon at the Great Marsh when you first get to Pastoria City
+1. The first 5 hidden items prior to Gym 1 are allowed to be picked up (tentative)
 2. You must complete Veilstone Gym after arriving for the first time, before heading south of the city
+3. **Mid-game Pivot Rules**:
+   - You must pivot to a new mon at the Great Marsh when you first get to Pastoria City
+   - You can leave and come back if you need to check Pokémon moves outside
+   - Only Pokémon that have defeated a Gym Leader can enter the Great Marsh
 
 ## Smart AI ROM Patches
 
@@ -114,9 +117,9 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 
 ### Smart AI Randomizer
 
-There is a dedicated randomizer for adding smart AI to trainers without a patch. It works for any generation 3-5 game, however if you would like to use the old randomizer version (4.4.1) for playing generation 4 without extra berries you will need to use that with a patch.
+There is a dedicated randomizer for adding smart AI to trainers without a patch. It works for any generation 3+ game, however if you would like to use the old randomizer version (4.4.0) for playing generation 4 without extra berries you will need to use that with a patch.
 
-[Download here](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v1)
+[Download here](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
 
 ## Randomizer Settings Strings
 

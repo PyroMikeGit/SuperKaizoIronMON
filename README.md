@@ -34,7 +34,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - ALL Step Items (Mt. Moon, etc) are banned no matter where they are
 6. Additional Banned Abilities:
    - **Battle Armor** / **Shell Armor**
-   - **Pickup** is okay except you can't take/use items
+   - **Pickup** is okay except you can't use items from it (toss them)
    - **Magic Guard**
    - **No Guard** is okay but you can't use any OHKO move or Sleep move
    - **Poison Heal** is okay but you can't purposefully get poisoned from wild Pokémon

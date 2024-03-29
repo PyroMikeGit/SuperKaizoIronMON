@@ -19,7 +19,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 ## General Rules for All Games
 
 0. ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Super Kaizo rule below)!
-1. Every Trainer has SMART AI, this requires a [ROM patch](#smart-ai-rom-patches)
+1. Every Trainer has **SMART AI**, this requires a [ROM patch](#smart-ai-rom-patches)
 2. Every Trainer has sensible held items (+ Consumable option for Gen 3 games)
 3. Every Gym Leader now has 6 Pokemon
 4. You must pivot to a NEW Pokémon about midway through the game, before beating the game:
@@ -33,15 +33,15 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Those found in the early game, [handled differently for each game](#game-specific-rules)
    - ALL Step Items (Mt. Moon, etc) are banned no matter where they are
 6. Additional Banned Abilities:
-   - Battle Armor / Shell Armor
-   - Pickup (can't take/use items)
-   - Magic Guard
-   - No Guard + using any OHKO move or Sleep move
-   - Poison Heal + getting poisoned from wild Pokémon
+   - **Battle Armor** / **Shell Armor**
+   - **Pickup** is okay except you can't take/use items
+   - **Magic Guard**
+   - **No Guard** is okay but you can't use any OHKO move or Sleep move
+   - **Poison Heal** is okay but you can't purposefully get poisoned from wild Pokémon
 7. Additional Banned Items when fighting Gym Leaders, Elite 4 or final Trainer battle:
-   - X Speed
-   - X Attack
-   - X Special Attack
+   - **X Speed**
+   - **X Attack**
+   - **X Special Attack**
 8. Additional Banned Moves when fighting Gym Leaders, Elite 4 or final Trainer battle:
    - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Defense Curl, etc.
    - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use

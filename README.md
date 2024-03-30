@@ -46,7 +46,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Defense Curl, etc.
    - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use
 9. Unbanned Moves:
-   - Attacking moves with HP draining effects such as Giga Drain are legal
+   - Attacking moves with HP draining effects such as Giga Drain are legal; you can't exploit healing off of wild Pokémon.
    - Non-attacking moves such as Pain Split, Leech Seed, etc. are still banned
 10. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon
 11. No [Legendary](https://www.serebii.net/pokemon/legendary.shtml) favorites

@@ -74,11 +74,13 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Can't pass water on Route 118 until you do
 
 ### Heart Gold / Soul Silver
+
 1. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
 2. Morty's Gym must be completed before leaving Ecruteak City
 3. The hidden items prior to entering Gym 1 are allowed to be picked up
 4. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
+   - Bug Catching Contest is banned
    - You final pivot must end up LOWER LEVEL than your first/original main Pokémon
    - If you find a favorite while searching for the mid-game pivot, you may catch it without it counting towards your 3 pivot checks
    - **Warning**: Save your game frequently while searching for a pivot. The rom patch may soft-lock your game if you encounter a roamer. Load your save or use Tracker's Restore Points.
@@ -90,8 +92,23 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    3. After that, you cannot leave cities/caves with a Gym until you defeat its Gym (Cerulean City includes routes north of it)
    4. Can't surf on Routes 19-21 until you have 6 Kanto badges
    5. Must defeat Blaine first before exploring the rest of Seafoam Islands
+   6. Must fight Red with hail weather active. (Diamond Dust appears on [special days](https://bulbapedia.bulbagarden.net/wiki/Easter_egg#Diamond_dust), such as January 1st)
+      - **On Bizhawk: This requires changing the initial time/clock of the emulator**
+
+**To change Bizhawk's time/clock:**
+   1. From the Bizhawk menu, click **NDS** > **Settings** > **Sync Settings**
+   2. Double-click the **Initial Time** value on the right and change it to **January 3rd**, click OK
+   3. Next, save your game using the in-game save feature (you CANNOT use save-states for this next part)
+   4. When the save fully completes, flush the save: Bizhawk menu > **File** > **Save RAM** > **Flush Save RAM**
+   5. Finally, restart your game using **Emulation** > **Restart**
+   6. When the game starts up and you get past the Title Screen, press 'Continue' to load the save
+   7. You may have to go to a new area or zone for the time change to occur and the weather to change
+
+![image](https://github.com/PyroMikeGit/SuperKaizoIronMON/assets/4258818/412374b7-0a04-4474-bed8-34efc818ab37)
+
 
 ### Platinum
+
 1. The first 5 hidden items prior to Gym 1 are allowed to be picked up (tentative)
 2. You must complete Veilstone Gym after arriving for the first time, before heading south of the city
 3. **Mid-game Pivot Rules**:

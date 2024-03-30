@@ -80,7 +80,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 2. Morty's Gym must be completed before leaving Ecruteak City
 3. The hidden items prior to entering Gym 1 are allowed to be picked up
 4. **Mid-game Pivot Rules**:
-   - NOTE: These pivot rules and areas are still being worked on. Expect an update in the near future
+   - **NOTE: These pivot rules and areas are still being worked on. Expect a ROM patch update in the near future**
    - You must pivot after defeating Morty and before fighting Chuck
    - Bug Catching Contest is banned
    - You final pivot must end up LOWER LEVEL than your first/original main Pokémon
@@ -99,15 +99,14 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 **To change Bizhawk's time/clock:**
    1. From the Bizhawk menu, click **NDS** > **Settings** > **Sync Settings**
-   2. Double-click the **Initial Time** value on the right and change it to **January 3rd**, click OK
+   2. Double-click the **Initial Time** value on the right and change it to **Tuesday, January 5th**, click OK
    3. Next, save your game using the in-game save feature (you CANNOT use save-states for this next part)
    4. When the save fully completes, flush the save: Bizhawk menu > **File** > **Save RAM** > **Flush Save RAM**
    5. Finally, restart your game using **Emulation** > **Restart**
    6. When the game starts up and you get past the Title Screen, press 'Continue' to load the save
    7. You may have to go to a new area or zone for the time change to occur and the weather to change
 
-![image](https://github.com/PyroMikeGit/SuperKaizoIronMON/assets/4258818/412374b7-0a04-4474-bed8-34efc818ab37)
-
+![image](https://github.com/PyroMikeGit/SuperKaizoIronMON/assets/4258818/8293d6cd-df4e-4034-867a-3c9d77c5fefe)
 
 ### Platinum
 

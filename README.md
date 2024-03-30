@@ -66,6 +66,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Emerald
 
+- NOTE: These rules are still being worked on. Expect an update in the near future.
 1. Must beat Mauville Gym before leaving
 2. Must beat Fortree Gym as soon as you can when you visit; avoid trainers while getting Devon Scope
 3. [work in progress] The 3 hidden items on the beach (Route 104 - South) are allowed to be picked up
@@ -79,6 +80,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 2. Morty's Gym must be completed before leaving Ecruteak City
 3. The hidden items prior to entering Gym 1 are allowed to be picked up
 4. **Mid-game Pivot Rules**:
+   - NOTE: These pivot rules and areas are still being worked on. Expect an update in the near future
    - You must pivot after defeating Morty and before fighting Chuck
    - Bug Catching Contest is banned
    - You final pivot must end up LOWER LEVEL than your first/original main Pokémon

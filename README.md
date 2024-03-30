@@ -88,7 +88,6 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - You must pivot after defeating Morty and before fighting Chuck
    - Bug Catching Contest is banned
    - You final pivot must end up LOWER LEVEL than your first/original main Pokémon
-   - If you find a favorite while searching for the mid-game pivot, you may catch it without it counting towards your 3 pivot checks
    - **Warning**: Save your game frequently while searching for a pivot. The rom patch may soft-lock your game if you encounter a roamer. Load your save or use Tracker's Restore Points.
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City

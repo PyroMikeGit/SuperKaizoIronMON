@@ -56,10 +56,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Fire Red / Leaf Green
 
-1. Misty's Gym must be completed IMMEDIATELY after getting the Nugget from Nugget Bridge
-2. Erika's Gym must be completed before entering Rocket Hideout
-3. No fighting trainers in S.S. Anne, except for the Rival to get Cut
-4. The first 5 hidden items prior to Mt. Moon are allowed to be picked up
+1. The hidden items prior to entering Mt. Moon are allowed to be picked up
+2. Misty's Gym must be completed IMMEDIATELY after getting the Nugget from Nugget Bridge
+3. Erika's Gym must be completed before entering Rocket Hideout
+4. No fighting trainers in S.S. Anne, except for the Rival to get Cut
 5. **Mid-game Pivot Rules**:
    - The pivot must be done in one of the Safari Zone areas
    - You can leave and come back if you need to check Pokémon moves outside
@@ -69,10 +69,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 **ROM Setup:** Apply the [Smart AI patch](#smart-ai-rom-patches) first, then do the normal 60% level scaling as with regular Kaizo. Read how to do this [here](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#ruby--sapphire--emerald).
 
+0. All other [Emerald specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#ruby--sapphire--emerald) apply, unless changed below
 1. The hidden items prior to entering Gym 1 are allowed to be picked up
 2. Seashore House and Trick House are banned
-3. Winona's Gym must be completed before leaving Fortree City
-   - Do this as soon as you can when you visit; avoid extra trainers while getting Devon Scope
+3. Winona's Gym must be completed IMMEDIATELY after receiving the Devon Scope from Steven
 4. **Mid-game Pivot Rules**:
    - [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) is the dedicated pivot area of the game
    - Same rules apply here as in Fire Red / Leaf Green
@@ -83,9 +83,9 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 > 
 > Expect a ROM patch update in the near future, such that the mid-game pivot will be entirely contained within the Bug Catching Contest and all other areas / surf encounters are ineligble.
 
-1. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
-2. Morty's Gym must be completed before leaving Ecruteak City
-3. The hidden items prior to entering Gym 1 are allowed to be picked up
+1. The hidden items prior to entering Gym 1 are allowed to be picked up
+2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
+3. Morty's Gym must be completed before leaving Ecruteak City
 4. You must turn off Rocket Hideout alarms after the first alarm
 5. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck

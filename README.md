@@ -25,7 +25,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. You must pivot to a NEW Pokémon about midway through the game, before beating the game:
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
    - For this pivot, you may catch 3 Pokémon, compare them, then choose 1 to keep
-   - You are allowed ONE favorite to be a "free catch" that does not count against your Safari "catch 3"
+   - If you encounter one of your starter favorites, you may catch ONE of them for free; doesn't count against your "Safari Catch 3"
    - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone / Mid-game pivot area
    - This pivot must be your last pivot and it can't be what you were primarily using in the first half of the game
    - If your last pivot evolves into the Pokémon you were running before, that's fine and legal

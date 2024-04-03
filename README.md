@@ -67,13 +67,15 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Emerald
 
-- NOTE: These rules are still being worked on. Expect an update in the near future.
-1. Must beat Mauville Gym before leaving
-2. Must beat Fortree Gym as soon as you can when you visit; avoid trainers while getting Devon Scope
-3. [work in progress] The 3 hidden items on the beach (Route 104 - South) are allowed to be picked up
+**ROM Setup:** Apply the [Smart AI patch](#smart-ai-rom-patches) first, then do the normal 60% level scaling as with regular Kaizo. Read how to do this [here](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#ruby--sapphire--emerald).
+
+1. The hidden items prior to entering Gym 1 are allowed to be picked up
+2. Seashore House and Trick House are banned
+3. Winona's Gym must be completed before leaving Fortree City
+   - Do this as soon as you can when you visit; avoid extra trainers while getting Devon Scope
 4. **Mid-game Pivot Rules**:
-   - After Norman, you must do a surf pivot
-   - Can't pass water on Route 118 until you do
+   - [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) is the dedicated pivot area of the game
+   - Same rules apply here as in Fire Red / Leaf Green
 
 ### Heart Gold / Soul Silver
 

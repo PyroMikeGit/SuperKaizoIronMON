@@ -73,8 +73,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 1. The hidden items prior to entering Gym 1 are allowed to be picked up
 2. Seashore House (soda shack) is banned
 3. Trick House is banned until after you mid-game pivot (Safari)
-4. Winona's Gym must be completed IMMEDIATELY after receiving the Devon Scope from Steven
-5. **Mid-game Pivot Rules**:
+4. **Mid-game Pivot Rules**:
    - [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) is the dedicated pivot area of the game
    - Same rules apply here as in Fire Red / Leaf Green
 
@@ -84,6 +83,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 > 
 > Expect a ROM patch update in the near future, such that the mid-game pivot will be entirely contained within the Bug Catching Contest and all other areas / surf encounters are ineligble.
 
+0. All other [HGSS specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#heart-gold--soul-silver) apply, unless changed below
 1. The hidden items prior to entering Gym 1 are allowed to be picked up
 2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
 3. Morty's Gym must be completed before leaving Ecruteak City
@@ -107,6 +107,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Platinum
 
+0. All other [Platinum specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#diamond--pearl--platinum) apply, unless changed below
 1. The first 5 hidden items prior to Gym 1 are allowed to be picked up (tentative)
 2. You must complete Veilstone Gym after arriving for the first time, before heading south of the city
 3. **Mid-game Pivot Rules**:

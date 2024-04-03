@@ -71,7 +71,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 0. All other [Emerald specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#ruby--sapphire--emerald) apply, unless changed below
 1. The hidden items prior to entering Gym 1 are allowed to be picked up
-2. Seashore House and Trick House are banned
+2. Seashore House (soda shack) and Trick House are banned
 3. Winona's Gym must be completed IMMEDIATELY after receiving the Devon Scope from Steven
 4. **Mid-game Pivot Rules**:
    - [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) is the dedicated pivot area of the game

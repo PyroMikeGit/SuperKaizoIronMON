@@ -108,7 +108,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 ### Platinum
 
 0. All other [Platinum specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#diamond--pearl--platinum) apply, unless changed below
-1. The first 5 hidden items prior to Gym 1 are allowed to be picked up (tentative)
+1. The hidden items prior to entering Gym 1 are allowed to be picked up
 2. You must complete Veilstone Gym after arriving for the first time, before heading south of the city
 3. **Mid-game Pivot Rules**:
    - You must pivot to a new mon at the Great Marsh when you first get to Pastoria City

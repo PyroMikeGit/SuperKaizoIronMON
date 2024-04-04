@@ -74,8 +74,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 2. Seashore House (soda shack) is banned
 3. Trick House is banned until after you mid-game pivot (Safari)
 4. **Mid-game Pivot Rules**:
+   - **NOTE: These are still a work in progress. An alternative is to force a pivot before surfing east of Route 118.**
    - [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) is the dedicated pivot area of the game
    - Same rules apply here as in Fire Red / Leaf Green
+   - Use of Pokeblocks is banned
 
 ### Heart Gold / Soul Silver
 

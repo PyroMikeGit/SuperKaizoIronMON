@@ -20,19 +20,20 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 0. ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Super Kaizo rule below)!
 1. Every Trainer has **SMART AI**, this requires a [ROM patch](#smart-ai-rom-patches)
-2. Every Trainer has sensible held items (+ Consumable option for Gen 3 games)
+2. Every Trainer has Sensible held items (For Gen 3 games: include Consumable only)
 3. Every Gym Leader now has 6 Pokemon
 4. You must pivot to a NEW Pokémon about midway through the game, before beating the game:
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
-   - For this pivot, you may catch 3 Pokémon, compare them, then choose 1 to keep
-   - If you encounter one of your starter favorites, you may catch ONE of them for free; doesn't count against your "Safari Catch 3"
-   - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone / Mid-game pivot area
-   - This pivot must be your last pivot and it can't be what you were primarily using in the first half of the game
-   - If your last pivot evolves into the Pokémon you were running before, that's fine and legal
-   - After this pivot, you may reenter each Dungeon 1 additional time
+   - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone, or otherwise be used for Mid-game pivoting
+   - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, or teach TMs to any of the 3. You must eventually settle on using ONE of them.
+   - You may catch an additional 4th Pokémon if it's one of your starter favorites.
+   - Once you settle on a pivot:
+      - It must be different than any Pokémon you were running before; if it later evolves into one of those Pokémon, that's OK
+      - You may reenter each Dungeon one additional time
+      - **You must beat the game with this new Pokémon**
 5. All Hidden Items are banned except:
    - Those found in Dungeons/Caves are allowed
-   - Those found in the early game, [handled differently for each game](#game-specific-rules)
+   - Those found in the early game, [cut-off points vary for each game](#game-specific-rules)
    - ALL Step Items (Mt. Moon, etc) are banned no matter where they are
 6. Additional Banned Abilities:
    - **Battle Armor** / **Shell Armor**
@@ -57,6 +58,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Fire Red / Leaf Green
 
+0. All other [FRLG specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green) apply, unless changed below
 1. The hidden items prior to entering Mt. Moon are allowed to be picked up
 2. Misty's Gym must be completed IMMEDIATELY after getting the Nugget from Nugget Bridge
 3. Erika's Gym must be completed before entering Rocket Hideout

@@ -25,7 +25,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. You must pivot to a NEW Pokémon about midway through the game, before beating the game:
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
    - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone, or otherwise be used for Mid-game pivoting
-   - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, or teach TMs to any of the 3. You must eventually settle on using ONE of them.
+   - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, teach TMs, etc. to any of the 3. You must eventually settle on using ONE of them.
    - You may catch an additional 4th Pokémon if it's one of your starter favorites.
    - Once you settle on a pivot:
       - It must be different than any Pokémon you were running before; if it later evolves into one of those Pokémon, that's OK
@@ -46,7 +46,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - **X Attack**
    - **X Special Attack**
 8. Additional Banned Moves when fighting Gym Leaders, Elite 4 or final Trainer battle:
-   - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Defense Curl, etc.
+   - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
    - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use
 9. Unbanned Moves:
    - Attacking moves with HP draining effects such as Giga Drain are legal; you can't exploit healing off of wild Pokémon.
@@ -64,7 +64,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 3. Erika's Gym must be completed before entering Rocket Hideout
 4. No fighting trainers in S.S. Anne, except for the Rival to get Cut
 5. **Mid-game Pivot Rules**:
-   - The pivot must be done in one of the Safari Zone areas
+   - The pivot must be done in one of the [Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Kanto_Safari_Zone) areas
    - You can leave and come back if you need to check Pokémon moves outside
 
 ### Emerald
@@ -83,20 +83,17 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Heart Gold / Soul Silver
 
-> **NOTE: These pivot rules and areas are still being worked on.**
-> 
-> Expect a ROM patch update in the near future, such that the mid-game pivot will be entirely contained within the Bug Catching Contest and all other areas / surf encounters are ineligble.
+> **NOTE: These pivot rules and areas are still being worked on.** Expect a ROM patch update in the near future to help switch days for the Bug Catching Contest pivot area.
 
 0. All other [HGSS specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#heart-gold--soul-silver) apply, unless changed below
 1. The hidden items prior to entering Gym 1 are allowed to be picked up
-2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35+)
+2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35)
 3. Morty's Gym must be completed before leaving Ecruteak City
 4. You must turn off Rocket Hideout alarms after the first alarm
 5. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
-   - Bug Catching Contest is banned
-   - You final pivot must end up LOWER LEVEL than your first/original main Pokémon
-   - **Warning**: Save your game frequently while searching for a pivot. The rom patch may soft-lock your game if you encounter a roamer. Load your save or use Tracker's Restore Points.
+   - [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) is the dedicated pivot area of the game
+   - You final pivot must end up 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City
    2. Must repair Power Plant and upgrade Poké Gear ASAP

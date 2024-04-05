@@ -64,7 +64,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 3. Erika's Gym must be completed before entering Rocket Hideout
 4. No fighting trainers in S.S. Anne, except for the Rival to get Cut
 5. **Mid-game Pivot Rules**:
-   - The pivot must be done in one of the [Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Kanto_Safari_Zone) areas
+   - The pivot must be done in one of the [Fuchsia Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Kanto_Safari_Zone) areas
    - You can leave and come back if you need to check Pokémon moves outside
 
 ### Emerald
@@ -77,7 +77,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 3. Trick House is banned until after you mid-game pivot (Safari)
 4. **Mid-game Pivot Rules**:
    - **NOTE: These are still a work in progress. An alternative is to force a pivot before surfing east of Route 118.**
-   - [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) is the dedicated pivot area of the game
+   - The pivot must be done in one of the [Lilycove Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone) areas
    - Same rules apply here as in Fire Red / Leaf Green
    - Use of Pokeblocks is banned
 
@@ -92,7 +92,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. You must turn off Rocket Hideout alarms after the first alarm
 5. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
-   - [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) is the dedicated pivot area of the game
+   - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on Tues/Thurs/Sat
    - You final pivot must end up 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City

@@ -93,7 +93,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 5. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
    - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on Tues/Thurs/Sat
-   - You final pivot must end up 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
+   - You final pivot must end up at least 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City
    2. Must repair Power Plant and upgrade Poké Gear ASAP

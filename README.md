@@ -92,7 +92,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. You must turn off Rocket Hideout alarms after the first alarm
 5. **Mid-game Pivot Rules**:
    - You must pivot after defeating Morty and before fighting Chuck
-   - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on Tues/Thurs/Sat
+   - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on [Tues/Thurs/Sat](#change-bizhawks-timeclock)
    - You final pivot must end up at least 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City

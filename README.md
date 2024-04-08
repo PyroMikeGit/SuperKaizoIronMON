@@ -83,8 +83,6 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ### Heart Gold / Soul Silver
 
-> **NOTE: These pivot rules and areas are still being worked on.** Expect a ROM patch update in the near future to help switch days for the Bug Catching Contest pivot area.
-
 0. All other [HGSS specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#heart-gold--soul-silver) apply, unless changed below
 1. The hidden items prior to entering Gym 1 are allowed to be picked up
 2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35)
@@ -94,6 +92,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - You must pivot after defeating Morty and before fighting Chuck
    - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on [Tues/Thurs/Sat](#change-bizhawks-timeclock)
    - You final pivot must end up at least 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
+   - The Super Kaizo patch includes a [Celebi to adjust times](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2) for Bug Catching Contest.
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City
    2. Must repair Power Plant and upgrade Poké Gear ASAP
@@ -121,15 +120,9 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
 
 - FireRed / Leaf Green: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
-- Heart Gold:
-   - Limiter + BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1Limiter.xdelta)
-   - Limiter + No BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1LimiterNoBGM.xdelta)
-   - No Limiter + BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1NoLimiter.xdelta)
-   - No Limiter + No BGM: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/download/v0.0.1/SuperKaizoHGPyroIronMONV0.0.1NoLimiterNoBGM.xdelta)
+- Heart Gold: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2)
 - Platinum:
-   - Use the randomizer below
-
-**Limiter**: The game plays at the original framerate; **No Limiter**: Game plays more smoothly and feels faster; **BGM**: No changes to music from original game; **NO BGM**: Changes the behavior of the GB Sounds item to remove the background music
+   - Use the Smart AI Randomizer below
 
 ### Smart AI Randomizer
 

@@ -92,7 +92,8 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - You must pivot after defeating Morty and before fighting Chuck
    - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on [Tues/Thurs/Sat](#change-bizhawks-timeclock)
    - You final pivot must end up at least 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
-   - The Super Kaizo patch includes a [Celebi to adjust times](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2) for Bug Catching Contest.
+   - The Super Kaizo patch includes a [Celebi to adjust times](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2) for Bug Catching Contest
+   - ONLY while doing the Bug Catching Contest, you may hold a Smoke Ball to safely run away from wilds, 
 6. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City
    2. Must repair Power Plant and upgrade Poké Gear ASAP

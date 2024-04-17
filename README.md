@@ -66,6 +66,12 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 5. **Mid-game Pivot Rules**:
    - The pivot must be done in one of the [Fuchsia Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Kanto_Safari_Zone) areas
    - You can leave and come back if you need to check Pokémon moves outside
+6. You may visit Sevii Islands\* to use the Move Relearner, with some restrictions:
+   - You cannot take any items on Sevii, trash any that you get
+   - You can only fight Trainers on Island Three
+   - Treat Sevii like a Dungeon: Once you start fighting Trainers, you cannot heal at a Pokémon Center until you leave
+
+> \* Sevii Note: After defeating Blaine, visit Cinnabar Island's Pokémon Center to speak to Bill to visit Sevii Islands. The Move Relearner requires 2 Tiny Mushrooms or 1 Big Mushroom per move.
 
 ### Emerald
 

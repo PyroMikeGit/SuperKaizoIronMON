@@ -127,6 +127,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/RomPatcher.js/)
 
 - FireRed / Leaf Green: [Download](https://github.com/tom-overton/pokefirered/releases/tag/smart-ai-v2)
+   - Maple's Quality of Life w/ Smart AI included: [Download](https://github.com/DrMaple/Faster-FireRed-Super-Kaizo/releases/latest)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
 - Heart Gold: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2)
 - Platinum:

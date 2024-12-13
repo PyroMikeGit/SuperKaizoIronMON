@@ -27,6 +27,8 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone, or otherwise be used for Mid-game pivoting
    - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, teach TMs, etc. to any of the 3. You must eventually settle on using ONE of them.
    - You may catch an additional 4th Pokémon if it's one of your starter favorites.
+   - **(NEW)** Of the 3 TMs found in the Safari Zone, you may pick ONE to use on your confirmed Safari Pivot mon.
+      - Shoutout to [Subpar Ironmon ruleset](<https://github.com/arexbold/SubparKaizoIronMON>) for this additional fun rule to Safari Pivoting.
    - Once you settle on a pivot:
       - It must be different than any Pokémon you were running before; if it later evolves into one of those Pokémon, that's OK
       - You may reenter each Dungeon one additional time
@@ -41,10 +43,9 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - **Magic Guard**
    - **No Guard** is okay but you can't use any OHKO move or Sleep move
    - **Poison Heal** is okay but you can't purposefully get poisoned from wild Pokémon
-7. Additional Banned Items when fighting Gym Leaders, Elite 4, or final Trainer of the game:
-   - **X Speed**
-   - **X Attack**
-   - **X Special Attack**
+7. **(NEW)** Additional Banned Items:
+   - Once you obtain 8 badges, all Battle Items (X-items, Guard Spec, Dire Hit) are banned for ALL battles. Any other time you are allowed to use them.
+      - For HGSS, this restriction is lifted *after* you beat the E4, but applies again once you get 16 badges.
 8. Additional Banned Moves when fighting Gym Leaders, Elite 4, or final Trainer of the game:
    - Any pure setup move, that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
    - Moves like Rage, Charge Beam, Light Screen, etc. are legal and okay to use
@@ -53,6 +54,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - Non-attacking moves such as Pain Split, Leech Seed, etc. are still banned
 10. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon
 11. No [Legendary](https://www.serebii.net/pokemon/legendary.shtml) favorites
+12. **(NEW)** You can now hold a Smoke Ball on the way to the first rival battle as well as anytime while pivoting early game
 
 ## Game Specific Rules
 

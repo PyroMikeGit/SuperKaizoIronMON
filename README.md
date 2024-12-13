@@ -55,6 +55,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 10. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon
 11. No [Legendary](https://www.serebii.net/pokemon/legendary.shtml) favorites
 12. **(NEW)** You can now hold a Smoke Ball on the way to the first rival battle as well as anytime while pivoting early game
+   - Note, this Smoke Ball rule applies to all Ironmon rulesets, including original Kaizo and Survival
 
 ## Game Specific Rules
 

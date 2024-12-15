@@ -166,7 +166,7 @@ There is a dedicated randomizer for adding smart AI to trainers without a patch.
    2. Double-click the **Initial Time** value on the right and change it to **Tuesday, January 5th**, click OK
    3. Next, save your game using the in-game save feature (you CANNOT use save-states for this next part)
    4. When the save fully completes, flush the save: Bizhawk menu > **File** > **Save RAM** > **Flush Save RAM**
-   5. Finally, restart your game using **Emulation** > **Restart**
+   5. Finally, restart your game using **Emulation** > **Reboot Core**
    6. When the game starts up and you get past the Title Screen, press 'Continue' to load the save
    7. You may have to go to a new area or zone for the time change to occur and the weather to change
 

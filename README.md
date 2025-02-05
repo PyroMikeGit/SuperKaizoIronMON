@@ -132,7 +132,7 @@ Apply patches using this website: [RomPatcher JS](https://www.marcrobledo.com/Ro
    - Maple's Quality of Life w/ Smart AI included: [Download](https://github.com/DrMaple/Faster-FireRed-Super-Kaizo/releases/latest)
 - Emerald: [Download](https://github.com/CyanSMP64/Emerald_Smart_AI/releases/tag/smart-ai)
 - Heart Gold: [Download](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2)
-- Platinum: [Download](https://github.com/SentorG/NewPlatPatch/releases/tag/Super)
+- Platinum: [Download](https://github.com/SentorG/PlatinumSuperKaizo/releases/latest)
 
 ### Smart AI Randomizer
 

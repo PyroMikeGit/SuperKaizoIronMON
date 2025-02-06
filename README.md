@@ -101,8 +101,12 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - The pivot must be done in one of the [Bug Catching Contest](https://bulbapedia.bulbagarden.net/wiki/Bug-Catching_Contest) areas, which are available on [Tues/Thurs/Sat](#change-bizhawks-timeclock)
    - Your final pivot must end up at least 3 LEVELS LOWER than your original main Pokémon (e.g. lv.47 can only catch mons lv44 or lower)
    - The Super Kaizo patch includes a [Celebi to adjust times](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/0.0.2) for Bug Catching Contest
-   - ONLY while doing the Bug Catching Contest, you may hold a Smoke Ball to safely run away from wilds, 
-6. Kanto Rules:
+   - ONLY while doing the Bug Catching Contest, you may hold a Smoke Ball to safely run away from wilds
+6. The 3 "Safari TMs" are:
+   - The TM in [National Park](https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_7#National_Park), located outside the fence, end of the tree-lined path in the southwest.
+   - The TM on [Route 42](https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_10#Route_42) east of Ecruteak City, near the sign to Mt. Mortar's west entrance.
+   - The TM inside [Burned Tower](https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_8#Burned_Tower), located in the northwest corner on the basement floor (requires HM friend with Strength).
+7. Kanto Rules:
    1. Lt. Surge's Gym must be completed before leaving Vermillion City
    2. Must repair Power Plant and upgrade Poké Gear ASAP
       - Head directly north towards Cerulean and use Rock Tunnel to complete the quest
@@ -123,6 +127,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. **Mid-game Pivot Rules**:
    - You must pivot to a new mon at the Great Marsh when you first get to Pastoria City
    - You can leave and come back if you need to check Pokémon moves outside
+5. The 3 "Safari TMs" are:
+   - TM 51, obtainable by talking to the NPC nearest to the honey tree on [Route 210 South](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_7#Route_210_(south)).
+   - TM 66, obtainable by talking to the NPC next to the second bridge on [Route 215](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8#Route_215).
+   - TM 63, obtainable by talking to the NPC below Veilstone Gym in [Veilstone city](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8#Veilstone_City).
 
 ## Smart AI ROM Patches
 

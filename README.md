@@ -95,7 +95,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 1. The following hidden items are allowed to be picked up (note: rock smash items are not considered "hidden items")
    - All hidden items prior to entering Gym 1
    - All hidden items located in cities
-   - All hidden itesm in Ilex Forest
+   - All hidden items in Ilex Forest
 2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35)
 3. Morty's Gym must be completed before leaving Ecruteak City
 4. You must turn off Rocket Hideout alarms after the first alarm

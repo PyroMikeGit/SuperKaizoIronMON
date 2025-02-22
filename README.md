@@ -92,7 +92,10 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 ### Heart Gold / Soul Silver
 
 0. All other [HGSS specific Kaizo rules](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#heart-gold--soul-silver) apply, unless changed below
-1. The hidden items prior to entering Gym 1 are allowed to be picked up (rock smash items are not hidden items)
+1. The following hidden items are allowed to be picked up (note: rock smash items are not considered "hidden items")
+   - All hidden items prior to entering Gym 1
+   - All hidden items located in cities
+   - All hidden itesm in Ilex Forest
 2. Whitney's Gym must be completed before heading north of Goldenrod City (Route 35)
 3. Morty's Gym must be completed before leaving Ecruteak City
 4. You must turn off Rocket Hideout alarms after the first alarm

@@ -73,7 +73,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - You can only fight Trainers on Island Three
    - Treat Sevii like a Dungeon: Once you start fighting Trainers, you cannot heal at a Pokémon Center until you leave
 
-> \* Sevii Note: After defeating Blaine, visit Cinnabar Island's Pokémon Center to speak to Bill to visit Sevii Islands. The Move Relearner requires 2 Tiny Mushrooms or 1 Big Mushroom per move.
+> \* Sevii Note: To access Sevii Islands, visit Cinnabar Island's Pokémon Center any time after defeating Blaine, then speak to Bill. The Move Relearner requires 2 Tiny Mushrooms or 1 Big Mushroom per move.
 
 ### Emerald
 

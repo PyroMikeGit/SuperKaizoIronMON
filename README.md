@@ -170,6 +170,7 @@ There is a dedicated randomizer for adding smart AI to trainers without a patch.
 ### Tracking Spreadsheets
 
 - FRLG: [Safari Zone Tracking Sheet Template: MAKE A COPY](https://docs.google.com/spreadsheets/d/1EB4Y5xmKmbUu9lzz9BTR0sJpp0wfUtNM4rF60aOtHtU)
+- HGSS: [Safari Zone Tracking Sheet Template: MAKE A COPY](https://docs.google.com/spreadsheets/d/1pnwxejfrb68KMPSFLIZQ8bCPJLFXmgUM0tVutyONb_c)
 
 ### Change Bizhawk's Time/Clock
    1. From the Bizhawk menu, click **NDS** > **Settings** > **Sync Settings**

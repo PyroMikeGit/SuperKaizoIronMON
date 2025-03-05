@@ -25,14 +25,14 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 4. You must pivot to a NEW Pokémon about midway through the game, before beating the game:
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
    - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone, or otherwise be used for Mid-game pivoting
-   - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, teach TMs, etc. to any of the 3. You must eventually settle on using ONE of them.
+   - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, teach gym TMs, etc. to any of the 3 (basically, try them out until you find the one you like). You must eventually settle on using ONE of them.
    - You may catch an additional 4th Pokémon if it's one of your starter favorites.
-   - **(NEW)** Of the 3 TMs found in the Safari Zone, you may pick ONE to use on your confirmed Safari Pivot mon.
-      - Shoutout to [Subpar Ironmon ruleset](<https://github.com/arexbold/SubparKaizoIronMON>) for this additional fun rule to Safari Pivoting.
    - Once you settle on a pivot:
       - It must be different than any Pokémon you were running before; if it later evolves into one of those Pokémon, that's OK
       - You may reenter each Dungeon one additional time
       - **You must beat the game with this new Pokémon**
+   - **(NEW)** Of the 3 TMs found in the Safari Zone, you may pick ONE to use on your confirmed Safari Pivot mon.
+      - Shoutout to [Subpar Ironmon ruleset](<https://github.com/arexbold/SubparKaizoIronMON>) for this additional fun rule to Safari Pivoting.
 5. All Hidden Items are banned except:
    - Those found in Dungeons/Caves are allowed
    - Those found in the early game, [cut-off points vary for each game](#game-specific-rules)

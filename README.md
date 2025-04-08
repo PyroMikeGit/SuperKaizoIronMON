@@ -52,7 +52,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 9. Unbanned Moves:
    - Attacking moves with HP draining effects such as Giga Drain are legal; you can't exploit healing off of wild Pokémon.
    - Non-attacking moves such as Pain Split, Leech Seed, etc. are still banned
-10. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon. You may view its moves by teaching it an HM, but avoid looking at its stats.
+10. Only one HM Friend allowed prior to Mid-game pivot, to prevent unnecessarily scouting moves on all Pokémon. You may view its moves by teaching it a legal-to-use TM or HM, but must avoid looking at its stats.
 11. No [Legendary](https://www.serebii.net/pokemon/legendary.shtml) favorites
 
 ## Game Specific Rules

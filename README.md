@@ -171,6 +171,7 @@ There is a dedicated randomizer for adding smart AI to trainers without a patch.
 
 - FRLG: [Safari Zone Tracking Sheet Template: MAKE A COPY](https://docs.google.com/spreadsheets/d/1EB4Y5xmKmbUu9lzz9BTR0sJpp0wfUtNM4rF60aOtHtU)
 - FRLG: [Fancy Safari Tracking Sheet: MAKE A COPY](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4)
+- FRLG Nat Dex: [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1r1asYturNZGJfm3MrTS3yegCKdho5p3QbB2wqCopqPo)
 - HGSS: [Safari Zone Tracking Sheet Template: MAKE A COPY](https://docs.google.com/spreadsheets/d/1pnwxejfrb68KMPSFLIZQ8bCPJLFXmgUM0tVutyONb_c)
 - Platinum: [Safari Zone Tracking Sheet Template: MAKE A COPY](https://docs.google.com/spreadsheets/d/17ogpFOxqWgTNwNOs4q2Gda6FU8mMM-UHDDz_XMbYpbw)
 

@@ -26,6 +26,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - See [Game Specific Rules](#game-specific-rules) for when this must be done, usually after the 4th Gym and/or in the Safari Zone
    - Only Pokémon that have defeated a Gym Leader can enter the Safari Zone, or otherwise be used for Mid-game pivoting
    - For this "pivot", you may catch 3 Pokémon and compare them. You may level, evo, teach gym TMs, etc. to any of the 3 (basically, try them out until you find the one you like). You must eventually settle on using ONE of them.
+   - You may catch the same Pokémon species while doing this, but it will use 1 of your 3 catches.
    - You may catch an additional 4th Pokémon if it's one of your starter favorites.
    - Once you settle on a pivot:
       - It must be different than any Pokémon you were running before; if it later evolves into one of those Pokémon, that's OK

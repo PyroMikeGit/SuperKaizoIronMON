@@ -42,7 +42,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
    - **Battle Armor** / **Shell Armor**
    - **Pickup** is okay except you can't use items from it (toss them)
    - **Magic Guard**
-   - **No Guard** is okay but you can't use any OHKO move or Sleep move
+   - **No Guard** is okay but you can't use any OHKO move or Sleep moves that have accuracy checks
    - **Poison Heal** is okay but you can't purposefully get poisoned from wild Pokémon
 7. **(NEW)** Additional Banned Items:
    - Once you obtain 8 badges, all Battle Items (X-items, Guard Spec, Dire Hit) are banned for ALL battles. Any other time you are allowed to use them.
